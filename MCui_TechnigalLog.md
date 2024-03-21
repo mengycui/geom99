@@ -24,7 +24,8 @@ GEOM99 Technical Log
     Upload ontario bathymetry data to AGOL 
     Import the layer to a new dashboard and test the tools
 
-2024-03-18"Open google cloud platform and start the VM
+2024-03-18
+    Open google cloud platform and start the VM
     Connect to the remote descktop and access the Canada.zip data
     Download the data to the local disk
     Notice the Canada shapefile data was already in C drive within the gisserver folder
