@@ -47,3 +47,29 @@ GEOM99 Technical Log
     Take screenshot for the running VM on the google cloud platform
     Take screenshot for the published service workspace
     Take screenshot of the map service using ArcGIS JavaScript view as public user"
+
+2024-03-20
+    Tailor the group project topic
+    Search ArcGIS solution gallery 
+    View ArcGIS Solution - Crime Analysis 
+    Deploy and download the solution and explore how ArcGIS web solutions are applied
+    Open the geodatabae associated with the solution and test on how it works"
+    Explore other solutions provided in ArcGIS Solutsion
+    Deploy and download citizen problem reporter
+    Click on the link to Citizen Request Center
+    View the solution
+    Click on the pages provided in the hamburger and see how it is worked 
+    Come up with the graffiti report idea
+    Learn ArcGIS Hub by reading examples 
+    Check if there are existing pages for Lindsay for graffiti report 
+    Open Kawartha Lakes online report system
+    Follow the steps to report graffiti and it is not efficient for the user and does not focus on the specific item
+    Modify the topic to match the technology problem it is curently having (not efficient/accurate data input and not easy to use for user)
+    Explore the report system for other cities (Ottawa, Mississauga, Peterborough) 
+    Vie wthe Citizen Problem Manager link on the ArcGIS Hub page 
+    Understand how it is worked and determine where is not efficient enough 
+    Explore other solutions and technologies
+
+2024-03-21
+    Discuss about problem statement and decide on final topic
+    Meet with the group to confirm about the final topic
