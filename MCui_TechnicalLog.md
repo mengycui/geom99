@@ -73,3 +73,58 @@ GEOM99 Technical Log
 2024-03-21
     Discuss about problem statement and decide on final topic
     Meet with the group to confirm about the final topic
+    
+2024-03-27
+    [8:00pm-9:00pm]
+        Download example data for the further exploration of delivering the data to the web platform  
+    [9:00pm - 10pm ]
+        Create new map
+        Create new point layer 
+        Examine layer settings, allow high-accuracy GPS receivers to collected data
+        Create map 
+        Examine the app settings 
+        Add an example layer and see how the data can be collected and the settings 
+    [11:00pm-12:00am]
+        Explore the app interface of the ArcGIS Field Map app 
+        Download an example ArcGIS solution template and import to the AGOL folder 
+        Open the solution timeplate in ArcGIS Field Map and see how data collection works 
+        Submit example data and view the user interface 
+    
+    ![image](https://github.com/mengycui/geom99/assets/147830565/5ee2a55d-7303-48e6-af65-31664153358a)
+    ![image](https://github.com/mengycui/geom99/assets/147830565/6462bfd7-f9a8-418a-a325-ffdc8ed08ba2)
+    ![image](https://github.com/mengycui/geom99/assets/147830565/43ab4de1-aba3-4366-b77c-d10f8ce715ab)
+    ![image](https://github.com/mengycui/geom99/assets/147830565/8c3fde8d-0015-4b4a-9ec7-61d381f7de71)
+    ![image](https://github.com/mengycui/geom99/assets/147830565/f5261848-36ef-4827-89b7-6de78f00ba2b)
+
+2024-04-03
+    [9:00pm - 9:15pm]
+        Open KoboToolbox webpage 
+        Create new user account using the Fleming email
+        Activate the account 
+    [9:15pm-10:15pm]
+        Create new project 
+        Name the new project 'Public Data Collection'
+        Add project description 
+        Create a new form 
+        Add question for location collection
+        Watch a youtube video tutorial for how to add location using KoboToolbox 
+        https://www.youtube.com/watch?v=atXhr2H3CLA
+        Add required problem for people to report the specific problem
+        Add question for user to add supporting information and images for the problem reported
+        Save and deploy
+        Open form and see the interface 
+        Submit a test report and view the data under the data table
+        Submit multiple data and see how the form works
+        Explore the data reports and gallery
+        Test out the form on phone
+        Form link: https://ee.kobotoolbox.org/x/4L82V3ca
+        ![image](https://github.com/mengycui/geom99/assets/147830565/965d4b7f-78aa-4a20-8158-361add341035)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/955b424b-cd07-4a72-a1d2-25340b360c0d)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/248e9fbe-861d-407d-9d92-e4c451800eae)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/9b936479-7845-42d9-b9a9-707c6de0e161)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/c33efce0-1a1c-4277-8a97-c370894f3f3b)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/6abae6f8-d99b-4a1b-b3ec-92248d444a50)
+
+
+        
+
