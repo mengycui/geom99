@@ -135,13 +135,27 @@ GEOM99 Technical Log
          ![image](https://github.com/mengycui/geom99/assets/147830565/b1729a0a-cc51-4fe7-8276-ccc35dfeb7ca)
 
     [10:30am-10:45am]
-        "-View the error detail
+        -View the error detail
         -Modify the schema
-        -Save the survey as a new survey 
-        -Fixed the problem"
+        -Save the survey as a new survey to fix the something already exist problem 
+        -Problem Fixed and the survey is working on ArcGIS Hub
        ![image](https://github.com/mengycui/geom99/assets/147830565/c30efeb1-ec92-463d-a1ce-00f3686281c1)
         ![image](https://github.com/mengycui/geom99/assets/147830565/358cd5ef-3840-450e-8951-3d1bf50e33d1)
 
+    [8:00pm-8:30pm]
+        Group Meeting
+        Report what each person have completed
+        Share the dashboard and survey with the group 
+        Select the best solution to display on the final webpage
+        Select the website template
+
+    [10:00pm-10:30pm]
+        Polish the ArcGIS Hub page 
+        Insert the application - ArcGIS Dashboard 
+        Connect the issue report dashboard to the ArcGIS Hub page 
+        Save and publish the page 
+        
+       
 
         
 
