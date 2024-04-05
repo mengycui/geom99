@@ -124,6 +124,23 @@ GEOM99 Technical Log
         ![image](https://github.com/mengycui/geom99/assets/147830565/9b936479-7845-42d9-b9a9-707c6de0e161)
         ![image](https://github.com/mengycui/geom99/assets/147830565/c33efce0-1a1c-4277-8a97-c370894f3f3b)
         ![image](https://github.com/mengycui/geom99/assets/147830565/6abae6f8-d99b-4a1b-b3ec-92248d444a50)
+2024-04-04
+    [9:30am-10:30am]
+        -Open the Citizen Problem Reporter solution
+        -Configure the solution
+        -Insert the KoboToolbox link to the arcgis hub page
+        -Test out the Survey 123 option on ArcGIS Hub"
+         ![image](https://github.com/mengycui/geom99/assets/147830565/12120c1f-582d-423d-a9ec-58f8d05ae003)
+         ![image](https://github.com/mengycui/geom99/assets/147830565/765812da-0253-49c3-89e5-4ceb547d1bb2)
+         ![image](https://github.com/mengycui/geom99/assets/147830565/b1729a0a-cc51-4fe7-8276-ccc35dfeb7ca)
+
+    [10:30am-10:45am]
+        "-View the error detail
+        -Modify the schema
+        -Save the survey as a new survey 
+        -Fixed the problem"
+       ![image](https://github.com/mengycui/geom99/assets/147830565/c30efeb1-ec92-463d-a1ce-00f3686281c1)
+        ![image](https://github.com/mengycui/geom99/assets/147830565/358cd5ef-3840-450e-8951-3d1bf50e33d1)
 
 
         
