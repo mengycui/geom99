@@ -154,8 +154,27 @@ GEOM99 Technical Log
         Insert the application - ArcGIS Dashboard 
         Connect the issue report dashboard to the ArcGIS Hub page 
         Save and publish the page 
-        
-       
+
+2024-04-11
+    [8:00pm-9:00pm]
+        Update the dashboard to be displayed on ArcGIS Hub page
+        -Create a new Dashboard named Public Report Centre
+        -Create a web map using the survey result as the hosted feature layer
+        -Connect the web map to the dashboard 
+        -Add details, statistics, pie chart, and data summary elements to the dashboard
+        -Set the dashboard sharing option to public, as well as the web map shared to public
+        -Update the dashboard on ArcGIS Hub to have the updated dashboard to link to the survey result 
+
+2024-04-12
+    [10:15pm-12:15am]
+        Prepare the solution section for the website
+        -Create a gif showing the ArcGIS Hub page 
+        -Write description to be displayed on the website for the solution
+        -Modify the html and css to better display the solution on the website
+        ![solution412001316](https://github.com/mengycui/geom99/assets/147830565/84037a5f-8aa7-48cc-95ae-706b19b9bede)
+
+                 
+               
 
         
 
